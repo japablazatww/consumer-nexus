@@ -4,6 +4,6 @@ WORKDIR /app
 
 COPY . .
 
-RUN go build -o consumer-app ./consumer
+RUN go build -mod=vendor -o consumer-app .
 
 CMD ["./consumer-app"]

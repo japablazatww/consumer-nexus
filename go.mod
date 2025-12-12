@@ -1,6 +1,6 @@
 module github.com/japablazatww/consumer-nexus
 
-go 1.25.5
+go 1.23.1
 
 require github.com/japablazatww/nexus v0.0.0-20251212215039-47ba8d2deb48
 

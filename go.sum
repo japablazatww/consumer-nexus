@@ -1,6 +1,6 @@
 github.com/japablazatww/libreria-a v0.0.0-20251210203640-ec455bed3c61 h1:kQOQar4M5NKCuMBl0UAmSCEuLLAKV2sAvflcDLCiFvw=
 github.com/japablazatww/libreria-a v0.0.0-20251210203640-ec455bed3c61/go.mod h1:S70uYVbtqUWtiYIkG1UbNpOiTPTceaGgS7Zo5xROPp8=
-github.com/japablazatww/libreria-b v0.0.0-20251212210745-26e0e11de9ab h1:wxl7U2mYckhNdBseVNGxt3UVHt1Ce/LE1p12VSGqf9k=
-github.com/japablazatww/libreria-b v0.0.0-20251212210745-26e0e11de9ab/go.mod h1:kzgZWAACB6BlpfCCJ5Nxu83mDbN+G7quU4bBQ2EA3UM=
-github.com/japablazatww/nexus v0.0.0-20251212215039-47ba8d2deb48 h1:Hwmj2aNCkNXvUFuWfY+McIZ/obb8t57Muy0MuhlE3rU=
-github.com/japablazatww/nexus v0.0.0-20251212215039-47ba8d2deb48/go.mod h1:RSU4dsV/dK7ywdQzhV/gHN987FLKvZ5efd/S02ow0VM=
+github.com/japablazatww/libreria-b v0.0.0-20251214232048-0ac00d21cca9 h1:1zI78zzXwoX6NPRVevENQeAe6zCzn4cE8FswshEY0eo=
+github.com/japablazatww/libreria-b v0.0.0-20251214232048-0ac00d21cca9/go.mod h1:kzgZWAACB6BlpfCCJ5Nxu83mDbN+G7quU4bBQ2EA3UM=
+github.com/japablazatww/nexus v0.0.0-20251214234010-8a239f3b8fc6 h1:tZiJMMFwTtnn3kcO6d/LOK3NSy/E5NEqvHrQUJRaP3w=
+github.com/japablazatww/nexus v0.0.0-20251214234010-8a239f3b8fc6/go.mod h1:Of2OtGDrfst5Q9zaN/nV5c5qZMok/lLcR1tRQZCntrQ=

@@ -115,4 +115,18 @@ func main() {
 	} else {
 		fmt.Printf("Loan Calculation Result: %v\n", loanRes)
 	}
+
+	// 7. Test SayHello
+	fmt.Println("\n--- Testing SayHello ---")
+	sayHelloReq := generated.GenericRequest{
+		Params: map[string]interface{}{
+			"msn": "Hello from Consumer",
+		},
+	}
+	sayHelloRes, err := client.Libreriab.Loans.SayHello(sayHelloReq)
+	if err != nil {
+		fmt.Printf("Error: %v\n", err)
+	} else {
+		fmt.Printf("SayHello Result: %v\n", sayHelloRes)
+	}
 }
